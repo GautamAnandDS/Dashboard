@@ -1,6 +1,5 @@
 # Dashboard
 A Dashboard for Play Store Apps Performance.
-![Uploading Dashboard 1 (1).png…]()
 This repository contains a Tableau dashboard that provides insights into the performance of apps on the Google Play Store. The dashboard is designed to help users understand various metrics related to app installations, categories, genres, and pricing.
 
 Dashboard Overview
